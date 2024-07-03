@@ -1,4 +1,4 @@
-Password Generator
+#Password Generator
 A simple web application to generate secure and random passwords. Customize your password by selecting the length and including various character types such as uppercase letters, lowercase letters, numbers, and symbols.
 
 Features
@@ -7,9 +7,10 @@ Include uppercase letters, lowercase letters, numbers, and symbols in the passwo
 Display password strength indicator.
 Copy generated password to clipboard with a single click.
 Demo
-[Link to live demo]
+[ https://github.com/ravatesushant11/password-generator.git]
 
 Screenshots
+![image](https://github.com/ravatesushant11/PasswordGenerator/assets/76428268/971a2400-3a7f-4282-bf37-131cf90f4783)
 
 
 Technologies Used
